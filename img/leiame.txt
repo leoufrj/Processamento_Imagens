@@ -1,3 +1,3 @@
-Neste diretório residem as imagens. As mesmas são de estudos pessoais do autor ou de fontes livres na internet.
+m Neste diretório residem as imagens. As mesmas são de estudos pessoais do autor ou de fontes livres que podem ser baixadas da internet.
 im_ex_A_HRI.jpg - link: https://effigis.com/wp-content/uploads/2015/02/DigitalGlobe_WorldView2_50cm_8bit_Pansharpened_RGB_DRA_Rome_Italy_2009DEC10_8bits_sub_r_1.jpg
 im_ex_B_HRI.jpg - link: https://effigis.com/wp-content/uploads/2015/02/Airbus_Pleiades_50cm_8bit_RGB_Yogyakarta.jpg
